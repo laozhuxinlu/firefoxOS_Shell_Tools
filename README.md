@@ -1,0 +1,1 @@
+firefox OS 下快速调试app和gecko下的js的shell脚本
